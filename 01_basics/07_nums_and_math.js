@@ -20,3 +20,5 @@ const hunderds = 1000000;
 // **************************MATHS********************************
 
 console.log(Math);
+
+//revise all different methods such as floor, ceil ,round , abs , min , max ,etc
