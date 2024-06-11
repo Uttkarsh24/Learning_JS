@@ -24,11 +24,11 @@ console.log(newString);
 const anotherString = gameName.slice(-8, 4)
 console.log(anotherString);
 
-const newStringOne = "   hitesh    "
+const newStringOne = "   uttkarsh    "
 console.log(newStringOne);
 console.log(newStringOne.trim());
 
-const url = "https://hitesh.com/hitesh%20choudhary"
+const url = "https://uttkarsh.com/uttkarsh%20 "
 
 console.log(url.replace('%20', '-'))
 

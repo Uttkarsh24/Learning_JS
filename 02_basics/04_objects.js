@@ -11,8 +11,8 @@ const regularUser = {
     email: "some@gmail.com",
     fullname: {
         userfullname: {
-            firstname: "hitesh",
-            lastname: "choudhary"
+            firstname: "uttkarsh",
+            lastname: " "
         }
     }
 }
@@ -58,7 +58,7 @@ users[1].email
 const course = {
     coursename: "js in hindi",
     price: "999",
-    courseInstructor: "hitesh"
+    courseInstructor: "uttkarsh"
 }
 
 // course.courseInstructor
@@ -70,7 +70,7 @@ console.log(instructor);
 
 //this is a example of json below:
 // {
-//     "name": "hitesh",
+//     "name": "uttkarsh",
 //     "coursename": "js in hindi",
 //     "price": "free"
 // }
