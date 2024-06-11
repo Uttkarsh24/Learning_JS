@@ -68,6 +68,7 @@ const {courseInstructor: instructor} = course
 // console.log(courseInstructor);
 console.log(instructor);
 
+//this is a example of json below:
 // {
 //     "name": "hitesh",
 //     "coursename": "js in hindi",
